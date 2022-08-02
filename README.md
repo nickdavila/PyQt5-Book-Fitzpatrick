@@ -1,0 +1,2 @@
+# PyQt5-Book-Fitzpatrick
+ Making this repository as a sort of 'blog' to keep track of where I am in the book "Create GUI Applications with Python & Qt5" by Martin Fitzpatrick. I'm only learning this for fun and so it probably won't be updated too much when I'm busy with school, but learning new programming skills is interesting to me. Also I think having a public log of what I do will help me finish the book. Since I often love starting new books but struggle to finish them :').
